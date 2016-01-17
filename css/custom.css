@@ -1,0 +1,19 @@
+/* Login Button */
+.login-btn {
+    box-shadow: 0px 10px 14px -7px rgb(39, 104, 115);
+    background: rgb(89, 155, 179) linear-gradient(to bottom, rgb(89, 155, 179) 5%, rgb(64, 140, 153) 100%) repeat scroll 0% 0%;
+    border-radius: 24px;
+    border: 1px solid rgb(41, 102, 143);
+    display: inline-block; 
+    cursor: pointer;
+    color: rgb(255, 255, 255); 
+    font-family: Arial;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 5px 34px;
+    text-decoration: none;
+}
+
+.text-box {
+    color: #000;   
+}
